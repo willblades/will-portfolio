@@ -1,5 +1,5 @@
 import getFormattedDate from "@/lib/getFormattedDate";
-import { getPostsData, getSortedPostsData, BlogPost } from "@/lib/posts";
+import { getPostsData, getSortedPostsData } from "@/lib/posts";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 

@@ -6,12 +6,6 @@ import remarkRehype from 'remark-rehype';
 import rehypeHighlight from 'rehype-highlight';
 import rehypeStringify from 'rehype-stringify';
 
-export interface BlogPost {
-  id: string;
-  title: string;
-  date: string;
-}
-
 const postsDirectory = path.join(process.cwd(), 'src/content/');
 
 export function getSortedPostsData(): BlogPost[] {
