@@ -20,7 +20,7 @@ const Home = () => {
               algorithms. When not programming, I have a passion for the Japanese fencing art of Kendo
               </p>
               <div className="flex flex-col xl:flex-row items-center gap-8">
-                <a href="/assets/resume.pdf" download>
+                <a href="/will-portfolio/assets/resume.pdf" download>
                   <Button
                     variant="outline"
                     size="lg"
