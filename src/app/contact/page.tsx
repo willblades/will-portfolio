@@ -2,7 +2,6 @@
 
 import { FaPhone, FaEnvelope, FaMapMarkedAlt } from "react-icons/fa";
 import { motion } from "framer-motion";
-import Link from "next/link";
 
 const info = [
   {
