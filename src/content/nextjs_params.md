@@ -1,4 +1,3 @@
-
 ---
 title: NextJS Params Have to be in a Promise Starting NextJS 15
 date: 2024-12-01
