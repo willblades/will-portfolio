@@ -7,9 +7,9 @@ import {CiMenuFries} from 'react-icons/ci'
 const links = [
     { name: "Home", href: "/" },
     { name: "Blog", href: "/blog" },
-    { name: "Services", href: "/services" },
     { name: "Work", href: "/work" },
-    { name: "About", href: "/about" },
+    { name: "Skills", href: "/services" },
+    { name: "Contact", href: "/contact" },
   ];
 
 const MobileNav = () => {

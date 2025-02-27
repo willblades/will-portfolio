@@ -1,5 +1,12 @@
+"use client";
+import Timeline from "@/components/Timeline";
+
 const Work = () => {
-    return <div>Work</div>;
+    return (
+        <div>
+          <Timeline />
+        </div>
+      );
 }
 
 export default Work;
